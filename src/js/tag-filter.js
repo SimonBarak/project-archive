@@ -59,6 +59,8 @@ export const initTagFilters = (mainEl, defaultState) => {
 
   // SET CATEGORY AFTER REDIRECT
   const tagsPastInURL = getUrlVars();
+
+  console.log(tagsPastInURL);
   if (tagsPastInURL.category) {
     const el = btnEls.find(
       (el) => el.getAttribute("data-tag") == tagsPastInURL.category
