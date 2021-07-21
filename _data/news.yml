@@ -6,6 +6,17 @@
   date: 2021-07-01 10:00:00 +0000
   link: https://www.asb-portal.cz/architektura/obcanske-stavby/exterier/ceskobudejovicky-park-4-dvory-navraci-prirodu-do-mesta-a-lidem
   copy: ''
+- title: Aleje nesázíme pro sebe, ale pro naše děti a vnuky, říkají krajinářští architekti
+    Veličkovi
+  link: https://brno.rozhlas.cz/aleje-nesazime-pro-sebe-ale-pro-nase-deti-a-vnuky-rikaji-krajinarsti-architekti-8501082
+  thumb: "/v1626885067/archweb/DSC_0241_i0hmif.jpg"
+  date: 2021-05-25 22:00:00 +0000
+  source: Český rozhlas
+  weight: 300
+  Thumb: ''
+  nazev_projektu: _projects/park-4Dvory.md
+  project-name: _projects/aleje.md
+  copy: ''
 - title: Sídliště Máj v Českých Budějovicích – Výjimečně dobře investované veřejné
     peníze
   link: https://www.stream.cz/gebrianvs/sidliste-maj-v-ceskych-budejovicich-vyjimecne-dobre-investovane-verejne-penize-206912
@@ -16,17 +27,6 @@
   Thumb: ''
   nazev_projektu: ''
   project-name: _projects/park-4Dvory.md
-  copy: ''
-- title: Aleje nesázíme pro sebe, ale pro naše děti a vnuky, říkají krajinářští architekti
-    Veličkovi
-  link: https://brno.rozhlas.cz/aleje-nesazime-pro-sebe-ale-pro-nase-deti-a-vnuky-rikaji-krajinarsti-architekti-8501082
-  thumb: "/v1624467806/archweb/02349781_p6nlfx.jpg"
-  date: 2021-05-25 22:00:00 +0000
-  source: Český rozhlas
-  weight: 300
-  Thumb: ''
-  nazev_projektu: _projects/park-4Dvory.md
-  project-name: _projects/aleje.md
   copy: ''
 - title: Z tankodromu udělali park. Byla to velká výzva, říkají krajinářští architekti
     o projektu pro Budějovice
