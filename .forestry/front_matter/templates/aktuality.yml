@@ -8,12 +8,12 @@ fields:
   fields:
   - type: text
     name: content
-    label: content
+    label: Obsah
   - type: datetime
     name: start
-    label: start
+    label: Začátek zveřejnění
   - type: datetime
     name: end
-    label: end
+    label: Konec zveřejnění
 pages:
 - _data/actual.yml
