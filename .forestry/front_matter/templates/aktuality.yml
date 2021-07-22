@@ -15,5 +15,12 @@ fields:
   - type: datetime
     name: end
     label: Konec zveřejnění
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Externí odkaz
+    description: 'například: <a href="https://www.archweb.com/en/" title="https://www.archweb.com/en/"
+      target="_blank">https://www.archweb.com/</a>'
 pages:
 - _data/actual.yml
