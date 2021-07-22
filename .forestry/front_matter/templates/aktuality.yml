@@ -6,6 +6,15 @@ fields:
   name: Actual
   label: Aktuality
   fields:
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Text aktuality
   - type: datetime
     name: start
     label: Začátek zveřejnění
@@ -19,14 +28,5 @@ fields:
     label: Externí odkaz
     description: 'například: <a href="https://www.archweb.com/en/" title="https://www.archweb.com/en/"
       target="_blank">https://www.archweb.com/</a>'
-  - name: content
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Text aktuality
 pages:
 - _data/actual.yml
