@@ -5,14 +5,29 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
+  path: _texty
+  label: Texty
+  create: all
+  match: "**/*"
+- type: directory
   path: _projects
   label: Projekty
   create: documents
   match: "**/*"
   templates:
-  - kniha
-  - media
   - project
+- type: directory
+  path: _knihy
+  label: Knihy
+  create: documents
+  match: "**/*"
+  templates:
+  - kniha
+- type: directory
+  path: _filmy
+  label: Filmy
+  create: all
+  match: "**/*"
 - type: document
   path: _data/news.yml
   label: Ve zprávách
