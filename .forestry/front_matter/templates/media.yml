@@ -61,6 +61,3 @@ fields:
     schema:
       format: markdown
   label: Description
-pages:
-- _projects/neztrácejme-půdu-pod-nohama-1.md
-- _projects/neztrácejme-půdu-pod-nohama.md

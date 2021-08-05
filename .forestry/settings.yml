@@ -5,11 +5,6 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
-  path: _texty
-  label: Texty
-  create: all
-  match: "**/*"
-- type: directory
   path: _projects
   label: Projekty
   create: documents
@@ -26,6 +21,11 @@ sections:
 - type: directory
   path: _filmy
   label: Filmy
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _texty
+  label: Texty
   create: all
   match: "**/*"
 - type: document
