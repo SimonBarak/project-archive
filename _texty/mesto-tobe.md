@@ -3,7 +3,7 @@ year: 0
 category: Kniha
 weight: 900
 layout: project
-title: Město tobě
+title: Město sobě
 desription: Město sobě je projekt série přednášek, které si kladou za cíl obrátit
   pozornost veřejnosti k problematice architektury.
 authors: ''
