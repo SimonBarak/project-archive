@@ -21,20 +21,22 @@
 title: M&P Architekti
 email: mp@mparch.cz
 description: >- # this means to ignore newlines until "baseurl:"
-  Konkrétní místo je vždy základem naší tvorby. Ateliér krajinářské architektury založili v roce 2004 Markéta a Petr Veličkovi.
+  Ateliér krajinářské architektury založili v roce 2004 Markéta a Petr Veličkovi.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mparch.cz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mp@mparch.cz
 
 collections:
   projects:
     output: true
+  knihy:
+    output: true
+  filmy:
+    output: true
+  texty:
+    output: true
 
 img_url: "https://res.cloudinary.com/dhxmg9p4i/image/upload/"
 # img_url: /assets/images/
-
-# Build settings
-theme: minima
 
 defaults:
   - scope:
