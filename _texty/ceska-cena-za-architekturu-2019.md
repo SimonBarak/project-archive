@@ -11,11 +11,10 @@ desription: 'Soutěž Česká cena za architekturu vyhlašuje Česká komora arc
   a laické veřejnosti, ale i zástupcům státní správy a samosprávy. '
 authors: ''
 images:
-- "/v1628172470/archweb/SKM_C224e21072112140_0005_av9vkb.jpg"
 - "/v1628172469/archweb/SKM_C224e21072112140_0004_gfpcvq.jpg"
+- "/v1628172470/archweb/SKM_C224e21072112140_0005_av9vkb.jpg"
 publisher: ''
 link: ''
 isbn: ''
-published: false
 
 ---
