@@ -14,10 +14,11 @@ desription: contemporary landscrape architecture in Visegrad countries. The Jaro
   DJ Tráva will open the musical part of this multi-genre cultural festival in the
   heart of Prague 1.
 authors: ''
-images: []
+images:
+- "/v1628172686/archweb/SKM_C224e21072112140_0007_osicj6.jpg"
+- "/v1628172683/archweb/SKM_C224e21072112140_0008_ci6j9r.jpg"
 publisher: ''
 link: ''
 isbn: ''
-published: false
 
 ---
