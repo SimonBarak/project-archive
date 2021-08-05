@@ -90,3 +90,5 @@ fields:
     required: false
   label: Layout
   default: project
+pages:
+- _texty/ceska-cena-za-architekturu-2016.md
