@@ -26,8 +26,10 @@ sections:
 - type: directory
   path: _texty
   label: Publikace
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - kniha
 - type: document
   path: _data/news.yml
   label: Ve zprávách
