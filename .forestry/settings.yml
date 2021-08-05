@@ -25,7 +25,7 @@ sections:
   match: "**/*"
 - type: directory
   path: _texty
-  label: Texty
+  label: Publikace
   create: all
   match: "**/*"
 - type: document
