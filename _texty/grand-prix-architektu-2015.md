@@ -17,6 +17,5 @@ images:
 publisher: ''
 link: ''
 isbn: ''
-published: false
 
 ---
