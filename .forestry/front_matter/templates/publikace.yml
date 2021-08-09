@@ -7,13 +7,7 @@ fields:
   label: year
 - type: number
   name: weight
-  label: weight
-- type: text
-  name: category
-  label: category
-- type: text
-  name: layout
-  label: layout
+  label: Priorita
 - type: text
   name: title
   label: title
@@ -35,3 +29,11 @@ fields:
 - type: text
   name: isbn
   label: isbn
+- type: text
+  name: category
+  label: category
+  default: Kniha
+- type: text
+  name: layout
+  label: layout
+  default: project
