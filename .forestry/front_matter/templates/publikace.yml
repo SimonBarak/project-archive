@@ -11,9 +11,6 @@ fields:
 - type: number
   name: year
   label: year
-- type: number
-  name: weight
-  label: priority
 - type: textarea
   name: description
   label: description
@@ -23,6 +20,9 @@ fields:
 - type: text
   name: publisher
   label: publisher
+- type: number
+  name: weight
+  label: priority
 - type: text
   name: link
   label: link
