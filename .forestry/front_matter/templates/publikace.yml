@@ -2,24 +2,24 @@
 label: Publikace
 hide_body: true
 fields:
+- type: text
+  name: title
+  label: title
+- type: image_gallery
+  name: images
+  label: images
 - type: number
   name: year
   label: year
 - type: number
   name: weight
-  label: Priorita
-- type: text
-  name: title
-  label: title
+  label: priority
 - type: textarea
   name: description
   label: description
 - type: text
   name: authors
   label: authors
-- type: image_gallery
-  name: images
-  label: images
 - type: text
   name: publisher
   label: publisher
@@ -33,7 +33,11 @@ fields:
   name: category
   label: category
   default: Kniha
+  config:
+    required: true
 - type: text
   name: layout
   label: layout
   default: project
+  config:
+    required: true
