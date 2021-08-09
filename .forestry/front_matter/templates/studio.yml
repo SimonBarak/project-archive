@@ -2,22 +2,22 @@
 label: Studio
 hide_body: false
 fields:
-  - type: text
-    name: layout
-    label: layout
-    hidden: true
-  - type: text
-    name: title
-    label: title
-    hidden: true
-  - name: description
-    type: textarea
-    default: ""
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: description
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: title
+  label: title
+  hidden: true
+- name: desription
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Desription
 pages:
-  - studio.md
+- studio.md
