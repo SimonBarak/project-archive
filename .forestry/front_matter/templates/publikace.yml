@@ -1,0 +1,37 @@
+---
+label: Publikace
+hide_body: true
+fields:
+- type: number
+  name: year
+  label: year
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: category
+  label: category
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: authors
+  label: authors
+- type: image_gallery
+  name: images
+  label: images
+- type: text
+  name: publisher
+  label: publisher
+- type: text
+  name: link
+  label: link
+- type: text
+  name: isbn
+  label: isbn
