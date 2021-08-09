@@ -19,11 +19,6 @@ sections:
   templates:
   - kniha
 - type: directory
-  path: _texty
-  label: Publikace
-  create: documents
-  match: "**/*"
-- type: directory
   path: _filmy
   label: Filmy
   create: documents

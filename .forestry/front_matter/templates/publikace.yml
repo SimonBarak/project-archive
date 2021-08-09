@@ -41,5 +41,3 @@ fields:
   default: project
   config:
     required: true
-pages:
-- _texty/publikace-1 copy 9.md
