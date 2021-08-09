@@ -5,13 +5,6 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
-  path: _texty
-  label: Publikace
-  create: documents
-  match: "**/*"
-  templates:
-  - publikace
-- type: directory
   path: _projects
   label: Stavby / návrhy
   create: documents
@@ -30,6 +23,13 @@ sections:
   label: Filmy
   create: documents
   match: "**/*"
+- type: directory
+  path: _texty
+  label: Publikace
+  create: documents
+  match: "**/*"
+  templates:
+  - publikace
 - type: document
   path: _data/news.yml
   label: Ve zprávách
