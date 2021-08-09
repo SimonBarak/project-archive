@@ -23,11 +23,6 @@ sections:
   label: Filmy
   create: documents
   match: "**/*"
-- type: directory
-  path: _texty
-  label: Publikace
-  create: documents
-  match: "**/*"
 - type: document
   path: _data/news.yml
   label: Ve zprávách
