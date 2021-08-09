@@ -1,7 +1,7 @@
 ---
 category: Kniha
 title: Život se stromy
-desription:
+description:
   Paměť stromů je o mnoho delší, než paměť lidská, ale jako vše, co žije,
   jsou stromy smrtelné. Když zahyne starý strom, zůstanou nám možná kresby, z novější
   doby filmové záznamy. Zmizí však vztahy, které ho – někdy po staletí – spojovaly

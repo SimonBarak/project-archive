@@ -1,13 +1,14 @@
 <div class="max-w-4xl mx-auto flex justify-center flex-wrap md:flex-no-wrap">
   <!-- HOW CO LOOP PROJECTS OR LOOP PUBLICATIONS? -->
 
-  {% assign items = site.knihy | sort: 'weight' %}
+  {% assign items = include.items | sort: 'weight' %}
 
   <!-- mark -->
-  {%- for item in items limit: 6 -%}
+  {%- for item in items limit: include.limit -%}
 
   <a class="block p-4" href="{{ site.baseurl }}{{ item.url }}">
     <img
+      loading="lazy"
       class="w-auto overflow-hidden shadow-lg mb-4"
       style="box-shadow: -5px 1px 12px 3px rgba(0, 0, 0, 0.37)"
       src="{{ site.img_url }}h_500{{ item.images[0] }}"

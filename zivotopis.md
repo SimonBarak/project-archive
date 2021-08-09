@@ -4,13 +4,13 @@ title: Životopis
 ---
 
 <div class="pb-24">
-<img />
+<img loading="lazy" />
 {%- for member in site.data.studio.members -%}
 
   <section class="py-10">
     <div class="max-w-lg mx-auto px-4 text-block">
     <div>
-        <img
+        <img loading="lazy"
           srcset="
     {{ site.img_url }}w_300{{ member.portret }} 500w,
     {{ site.img_url }}w_500{{ member.portret }} 710w,

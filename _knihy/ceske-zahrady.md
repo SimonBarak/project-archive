@@ -4,7 +4,7 @@ title: České zahrady
 authors: Petr Velička, Markéta Veličková
 images:
   - "/v1624889044/archweb/Ceske_zahrady_sa6qda.jpg"
-desription:
+description:
   "Působivá kniha přináší více než třicet ukázek soukromých zahrad České
   republiky. \nPředstavuje také jejich tvůrce, kteří patří k absolutní špičce zahradního
   umění v našich zemích, jednoho z výrazných témat krajinářské architektury obecně.\n\nVýsledky

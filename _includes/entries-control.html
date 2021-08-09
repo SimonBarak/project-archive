@@ -1,5 +1,5 @@
-<div id="entry-contorls" class="md:flex md:flex-row-reverse px-2 mb-2">
-  <div class="text-2xl md:text-right w-24 lg:mr-5">
+<div id="entry-contorls" class="md:flex md:flex-row-reverse px-2">
+  <!-- <div class="text-2xl md:text-right w-24 lg:mr-5">
     <button
       class="view-switcher py-2 text-gray-400 hover:text-gray-600 transition"
       data-mode="cards"
@@ -14,7 +14,7 @@
     >
       <c title="/Xi U+039E (GREEK CAPITAL LETTER XI)" class="">Ξ</c>
     </button>
-  </div>
+  </div> -->
   <div class="flex-grow">
     <!-- . -->
     {% include btn-lg.html class="btn-filter" content="Stavby" tag="Stavba" %}
@@ -25,6 +25,12 @@
     <!-- . -->
     {% include btn-lg.html class="btn-filter" content="Knihy" tag="Kniha" %}
     <!-- . -->
-    {% include btn-lg.html class="btn-filter" content="Texty" tag="Text" %}
+    {% include btn-lg.html class="btn-filter" content="Publikace" tag="Text" %}
   </div>
+</div>
+<div id="entry-order-contorls" class="flex px-2 mb-2">
+  <!-- . -->
+  {% include btn-md.html class="btn-order" content="Prioritně" tag="weight" %}
+  <!-- . -->
+  {% include btn-md.html class="btn-order" content="Chronologicky" tag="date" %}
 </div>

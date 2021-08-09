@@ -5,14 +5,10 @@ layout: default
 <section class="lg:pb-40">
   <div
     id="entries"
-    class="entries md:max-w-2xl lg:max-w-5xl mx-auto"
+    class="entries entries-order md:max-w-2xl lg:max-w-5xl mx-auto Stavba"
     data-view="cards"
     entriesType="projects"
   >
-    {%- include entries-control.html -%}
-    <div class="entries-cards">{%- include entries-cards.html -%}</div>
-    <div class="entries-table overflow-x-scroll">
-      {%- include entries-table.html -%}
-    </div>
+    {%- include entries-control.html -%} {%- include entries-cards.html -%}
   </div>
 </section>

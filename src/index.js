@@ -2,7 +2,7 @@ import { buildToggleMenu } from "./js/fullscreen-menu.js";
 import { buildSwiper } from "./js/swiper.js";
 import { buildMap } from "./js/map.js";
 import { initEntries } from "./js/entries.js";
-import { initTagFilters } from "./js/tag-filter.js";
+import { initTagFilters, initOrder } from "./js/tag-filter.js";
 
 import "./index.scss";
 
@@ -13,12 +13,16 @@ buildSwiper();
 
 // Init entries
 const entriesELs = Array.from(document.querySelectorAll(".entries"));
-
 if (entriesELs.length > 0) {
   entriesELs.forEach((el) => {
-    const defaultState =
-      el.getAttribute("entriesType") === "news" ? "priority" : "all";
-    initTagFilters(el, defaultState);
+    initTagFilters(el);
+  });
+}
+
+const entriesOrderELs = Array.from(document.querySelectorAll(".entries-order"));
+if (entriesOrderELs.length > 0) {
+  entriesOrderELs.forEach((el) => {
+    initOrder(el);
   });
 }
 
@@ -33,9 +37,9 @@ if (mapEl) {
 const entriesEL = document.getElementById("entries");
 
 if (entriesEL) initEntries(entriesEL);
-const actualitiesEl = document.getElementById("actualities");
+const newsEl = document.getElementById("news");
 
-if (actualitiesEl) {
+if (newsEl) {
   const actuals = Array.from(document.getElementsByClassName("actual-entry"));
   const now = new Date();
   const nowInMs = now.getTime() / 1000;
@@ -45,7 +49,7 @@ if (actualitiesEl) {
   );
 
   if (justActiual.length === 0) {
-    actualitiesEl.remove();
+    newsEl.remove();
   }
 
   actuals.forEach((actual) => {

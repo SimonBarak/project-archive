@@ -21939,20 +21939,16 @@ button:focus {
 }
 
 .max-h-70 {
-  max-height: 50vh;
+  max-height: 10vh;
 }
 @media (min-width: 720px) {
   .max-h-70 {
-    max-height: 70vh;
+    max-height: 90vh;
   }
 }
 
 .min-h-70 {
-  min-height: 70vh;
-}
-
-.min-h-70 {
-  min-height: 70vh;
+  min-height: 90vh;
 }
 
 .btn-1 {
@@ -21999,40 +21995,32 @@ div > a.mapboxgl-ctrl-logo,
   background: linear-gradient(90deg, rgba(100, 100, 100, 0), #edf2f7);
 }
 
-.entries.chronologi .article-entries[data-tag=priority] {
+.entries .entrie {
   display: none;
 }
 
-.entries.priority .article-entries[data-tag=chronologi] {
-  display: none;
+.entries.Any .entrie {
+  display: block;
 }
 
-.entries.Stavba .entrie[data-tag=Navrh],
-.entries.Stavba .entrie[data-tag=""],
-.entries.Stavba .entrie[data-tag=Film],
-.entries.Stavba .entrie[data-tag=Kniha] {
-  display: none;
+.entries.Stavba .entrie[data-tag=Stavba] {
+  display: block;
 }
 
-.entries.Navrh .entrie[data-tag=Stavba],
-.entries.Navrh .entrie[data-tag=""],
-.entries.Navrh .entrie[data-tag=Film],
-.entries.Navrh .entrie[data-tag=Kniha] {
-  display: none;
+.entries.Navrh .entrie[data-tag=Navrh] {
+  display: block;
 }
 
-.entries.Film .entrie[data-tag=Stavba],
-.entries.Film .entrie[data-tag=""],
-.entries.Film .entrie[data-tag=Navrh],
-.entries.Film .entrie[data-tag=Kniha] {
-  display: none;
+.entries.Film .entrie[data-tag=Film] {
+  display: block;
 }
 
-.entries.Kniha .entrie[data-tag=Stavba],
-.entries.Kniha .entrie[data-tag=""],
-.entries.Kniha .entrie[data-tag=Navrh],
-.entries.Kniha .entrie[data-tag=Film] {
-  display: none;
+.entries.Kniha .entrie[data-tag=Kniha] {
+  display: block;
+}
+
+.entries.Text .entrie[data-tag=Text] {
+  display: block;
 }
 
 @media (min-width: 640px) {

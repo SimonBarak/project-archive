@@ -4,6 +4,7 @@ category: Film
 title: Bermudský poetický trojúhelník nad Vysočinou
 source: Česká televize
 weight: 900
+
 images:
   - "/v1578088133/archweb/P1400835_aqgveo.jpg"
   - "/v1578088394/archweb/ledenunorvelk%C3%BD_fot%C3%A1k2013_439_s5dubd.jpg"

@@ -2,99 +2,99 @@
 label: Kniha
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Název
-- name: desription
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Popis
-- name: authors
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Autoři
-- name: images
-  type: image_gallery
-  config: {}
-  label: Obrázky
-- name: publisher
-  type: text
-  config:
-    required: false
-  label: Vydavatel
-- name: year
-  type: number
-  label: Rok
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-- name: link
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Odkaz na vydavatelství
-- name: isbn
-  type: text
-  config:
-    required: false
-  label: ISBN
-- name: category
-  type: select
-  default: Kniha
-  config:
-    required: false
-    options:
-    - Kniha
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Kategorie
-  description: Kategorie projektu
-- name: weight
-  type: number
-  label: weight
-  description: ''
-  default: 900
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-  showOnly:
-    field: category
-- name: layout
-  type: text
-  config:
-    required: false
-  label: Layout
-  default: project
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Název
+  - name: description
+    type: textarea
+    default: ""
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Popis
+  - name: authors
+    type: textarea
+    default: ""
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Autoři
+  - name: images
+    type: image_gallery
+    config: {}
+    label: Obrázky
+  - name: publisher
+    type: text
+    config:
+      required: false
+    label: Vydavatel
+  - name: year
+    type: number
+    label: Rok
+    description: ""
+    default: 0
+    required: true
+    config:
+      min:
+      max:
+      step:
+  - name: link
+    type: textarea
+    default: ""
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Odkaz na vydavatelství
+  - name: isbn
+    type: text
+    config:
+      required: false
+    label: ISBN
+  - name: category
+    type: select
+    default: Kniha
+    config:
+      required: false
+      options:
+        - Kniha
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: Kategorie
+    description: Kategorie projektu
+  - name: weight
+    type: number
+    label: weight
+    description: ""
+    default: 900
+    required: true
+    config:
+      min:
+      max:
+      step:
+    showOnly:
+      field: category
+  - name: layout
+    type: text
+    config:
+      required: false
+    label: Layout
+    default: project
 pages:
-- _texty/ceska-cena-za-architekturu-2016.md
-- _texty/ceska-cena-za-architekturu-2019.md
-- _texty/contemporary-landscrape-architecture.md
-- _texty/grand-prix-architektu-2007.md
-- _texty/grand-prix-architektu-2015.md
-- _texty/mesto-tobe.md
-- _texty/pecsrl-2016.md
+  - _texty/ceska-cena-za-architekturu-2016.md
+  - _texty/ceska-cena-za-architekturu-2019.md
+  - _texty/contemporary-landscrape-architecture.md
+  - _texty/grand-prix-architektu-2007.md
+  - _texty/grand-prix-architektu-2015.md
+  - _texty/mesto-tobe.md
+  - _texty/pecsrl-2016.md

@@ -1,5 +1,6 @@
 ---
 weight: 900
+
 year: 2012
 layout: project
 title: Karmelitánský klášter v Kostelním vydří

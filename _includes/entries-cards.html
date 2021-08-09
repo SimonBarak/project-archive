@@ -1,8 +1,13 @@
-<div class="flex flex-wrap items-stretch">
+<div class="flex flex-wrap items-stretch" id="entries-container">
   {% assign items = site.projects | sort: 'weight' %}
   <!-- . -->
   {%- for item in items -%}
-  <div class="entrie p-2 pb-3 md:w-1/2 lg:w-1/3" data-tag="{{item.category}}">
+  <div
+    class="entrie p-2 pb-3 md:w-1/2 lg:w-1/3"
+    data-tag="{{item.category}}"
+    year="{{item.year}}"
+    weight="{{ forloop.index }}"
+  >
     {%- include project-card-md.html headline=item.location subline=item.title
     tag=item.category -%}
   </div>
@@ -11,7 +16,12 @@
   {% assign items = site.knihy | sort: 'weight' %}
   <!-- . -->
   {%- for item in items -%}
-  <div class="entrie p-2 pb-3 md:w-1/2 lg:w-1/3" data-tag="{{item.category}}">
+  <div
+    class="entrie p-2 pb-3 md:w-1/2 lg:w-1/3"
+    data-tag="{{item.category}}"
+    year="{{item.year}}"
+    weight="{{ forloop.index }}"
+  >
     {%- include project-card-md.html headline=item.location subline=item.title
     tag=item.category -%}
   </div>
@@ -20,7 +30,12 @@
   {% assign items = site.filmy | sort: 'weight' %}
   <!-- . -->
   {%- for item in items -%}
-  <div class="entrie p-2 pb-3 md:w-1/2 lg:w-1/3" data-tag="{{item.category}}">
+  <div
+    class="entrie p-2 pb-3 md:w-1/2 lg:w-1/3"
+    data-tag="{{item.category}}"
+    year="{{item.year}}"
+    weight="{{ forloop.index }}"
+  >
     {%- include project-card-md.html headline=item.location subline=item.title
     tag=item.category -%}
   </div>
@@ -29,7 +44,12 @@
   {% assign items = site.texty | sort: 'weight' %}
   <!-- . -->
   {%- for item in items -%}
-  <div class="entrie p-2 pb-3 md:w-1/2 lg:w-1/3" data-tag="{{item.category}}">
+  <div
+    class="entrie p-2 pb-3 md:w-1/2 lg:w-1/3"
+    data-tag="{{item.category}}"
+    year="{{item.year}}"
+    weight="{{ forloop.index }}"
+  >
     {%- include project-card-md.html headline=item.location subline=item.title
     tag=item.category -%}
   </div>

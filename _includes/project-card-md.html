@@ -14,6 +14,7 @@
 >
   {% if item.images[0] %}
   <img
+    loading="lazy"
     class="h-48 w-full object-cover"
     src="{{ site.img_url }}c_thumb,h_600,w_1000{{ item.images[0] }}"
     alt="{{ page.title }}, {{ site.title }}"

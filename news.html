@@ -8,33 +8,18 @@ permalink: /zpravy
   <div
     id="entries"
     entriesType="news"
-    class="entries mx-auto md:max-w-2xl lg:max-w-5xl priority"
+    class="entries-order mx-auto md:max-w-2xl lg:max-w-5xl"
   >
     <div id="entry-contorls" class="flex px-2 mb-2">
       <!-- . -->
-      {% include btn-lg.html class="btn-filter" content="Prioritně"
-      tag="priority" %}
+      {% include btn-md.html class="btn-order" content="Prioritně" tag="weight"
+      %}
       <!-- . -->
-      {% include btn-lg.html class="btn-filter" content="Chronologicky"
-      tag="chronologi" %}
+      {% include btn-md.html class="btn-order" content="Chronologicky"
+      tag="date" %}
     </div>
-    <div
-      class="article-entries grid grid-cols-1 md:grid-cols-2"
-      data-tag="priority"
-    >
+    <div id="entries-container" class="grid grid-cols-1 md:grid-cols-2">
       {% for post in site.data.news | sort: 'weight' %}
-      <!-- -- -->
-      {%- include article-card.html -%}
-      <!-- -- -->
-      {% endfor %}
-    </div>
-    <div
-      class="article-entries grid grid-cols-1 md:grid-cols-2"
-      data-tag="chronologi"
-    >
-      {% assign sorted = site.data.news | sort: 'date' | reverse %}
-      <!-- -- -->
-      {% for post in sorted %}
       <!-- -- -->
       {%- include article-card.html -%}
       <!-- -- -->
