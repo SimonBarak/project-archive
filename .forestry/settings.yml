@@ -28,8 +28,6 @@ sections:
   label: Publikace
   create: documents
   match: "**/*"
-  templates:
-  - kniha
 - type: document
   path: _data/news.yml
   label: Ve zprávách
