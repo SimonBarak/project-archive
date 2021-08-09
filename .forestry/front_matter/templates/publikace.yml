@@ -2,44 +2,76 @@
 label: Publikace
 hide_body: true
 fields:
-- type: text
-  name: title
-  label: title
-- type: image_gallery
-  name: images
-  label: images
-- type: number
-  name: year
-  label: year
-- type: number
-  name: weight
-  label: priority
-- type: textarea
-  name: description
-  label: description
-- type: text
-  name: authors
-  label: authors
-- type: text
-  name: publisher
-  label: publisher
-- type: text
-  name: link
-  label: link
-- type: text
-  name: isbn
-  label: isbn
-- type: text
-  name: category
-  label: category
-  default: Kniha
-  config:
-    required: true
-- type: text
-  name: layout
-  label: layout
-  default: project
-  config:
-    required: true
+  - type: text
+    name: title
+    label: title
+  - type: image_gallery
+    name: images
+    label: images
+  - type: number
+    name: year
+    label: year
+  - type: number
+    name: weight
+    label: priority
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: authors
+    label: authors
+  - type: text
+    name: publisher
+    label: publisher
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: isbn
+    label: isbn
+  - type: text
+    name: category
+    label: category
+    default: Kniha
+    config:
+      required: true
+  - type: text
+    name: layout
+    label: layout
+    default: project
+    config:
+      required: true
 pages:
-- _texty/publikace-1 copy 9.md
+  - _texty/publikace-0.md
+  - _texty/publikace-1.md
+  - _texty/publikace-2.md
+  - _texty/publikace-3.md
+  - _texty/publikace-4.md
+  - _texty/publikace-5.md
+  - _texty/publikace-6.md
+  - _texty/publikace-7.md
+  - _texty/publikace-8.md
+  - _texty/publikace-9.md
+  - _texty/publikace-10.md
+  - _texty/publikace-11.md
+  - _texty/publikace-12.md
+  - _texty/publikace-13.md
+  - _texty/publikace-14.md
+  - _texty/publikace-15.md
+  - _texty/publikace-16.md
+  - _texty/publikace-17.md
+  - _texty/publikace-18.md
+  - _texty/publikace-19.md
+  - _texty/publikace-20.md
+  - _texty/publikace-21.md
+  - _texty/publikace-22.md
+  - _texty/publikace-23.md
+  - _texty/publikace-24.md
+  - _texty/publikace-25.md
+  - _texty/publikace-26.md
+  - _texty/publikace-27.md
+  - _texty/publikace-28.md
+  - _texty/publikace-29.md
+  - _texty/publikace-30.md
+  - _texty/publikace-31.md
+  - _texty/publikace-32.md

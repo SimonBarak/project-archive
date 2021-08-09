@@ -1,12 +1,20 @@
 ---
+year: 2019
 weight: 900
 category: Text
 layout: project
-title: Stauba
-description: "Architektonický časopis Stavba přináší čtyřikrát ročně aktuální novinky ze světa architektury a stavění. Jednotlivá čísla jsou většinou tematicky uspořádána, přičemž stěžejní a pravidelně se vracející témata jsou věnována otázkám rozvoje měst, bydlení a rekonstrukcím. Časopis je určen nejen architektům, projektantům a studentům, ale všem, kdo se zajímají o architekturu a stavění."
-year: 2008
+title: Česká cena za architekturu 2019
+description:
+  "Soutěž Česká cena za architekturu vyhlašuje Česká komora architektů,
+  profesní organizace s přeneseným výkonem státní správy, v souladu se svým posláním
+  pečovat o stavební kulturu v České republice a podporovat její vysokou úroveň. Jejím
+  pořádáním chce Komora prezentovat kvalitní architektonickou produkci nejen odborné
+  a laické veřejnosti, ale i zástupcům státní správy a samosprávy. "
+authors: ""
 images:
-  - "/v1628172347/archweb/scan-4.jpg"
-  - "/v1628172350/archweb/scan-5.jpg"
-  - "/v1628172350/archweb/scan-6.jpg"
+  - "/v1628172469/archweb/SKM_C224e21072112140_0004_gfpcvq.jpg"
+  - "/v1628172470/archweb/SKM_C224e21072112140_0005_av9vkb.jpg"
+publisher: ""
+link: ""
+isbn: ""
 ---
