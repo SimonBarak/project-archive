@@ -2,7 +2,7 @@
 weight: 700
 category: Text
 layout: project
-title: '03 2015 Post - krajina ERA21 '
+title: 'ERA21 Post - krajina '
 description: ''
 year: 2015
 images:
