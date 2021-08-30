@@ -7,8 +7,8 @@ title: Grand prix architektů 2007
 description: ''
 authors: ''
 images:
-- "/v1628173643/archweb/SKM_C224e21072114470_0003_ffbhca.jpg"
 - "/v1628173643/archweb/SKM_C224e21072114470_0002_in06dn.jpg"
+- "/v1628173643/archweb/SKM_C224e21072114470_0003_ffbhca.jpg"
 publisher: ''
 link: ''
 isbn: ''
