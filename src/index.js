@@ -45,18 +45,19 @@ if (newsEl) {
   const nowInMs = now.getTime() / 1000;
 
   const justActiual = actuals.filter(
-    (actual) => parseInt(actual.getAttribute("data-date")) > nowInMs
+    (actual) =>
+      parseInt(actual.getAttribute("data-start")) < nowInMs &&
+      parseInt(actual.getAttribute("data-end")) > nowInMs
   );
 
   if (justActiual.length === 0) {
     newsEl.remove();
   }
 
-  actuals.forEach((actual) => {
-    const time = parseInt(actual.getAttribute("data-date"));
-    if (nowInMs > time) {
-      actual.remove();
-    }
+  console.log(justActiual);
+
+  justActiual.forEach((actual) => {
+    actual.classList.remove("hidden");
   });
 }
 
