@@ -2,7 +2,7 @@
 weight: 700
 category: Text
 layout: project
-title: 'revitalizační architektura ERA21 '
+title: '03 2015 Post - krajina ERA21 '
 description: ''
 year: 2015
 images:
@@ -11,5 +11,6 @@ images:
 - "/v1628172350/archweb/scan-32.jpg"
 - "/v1628172350/archweb/scan-35.jpg"
 - "/v1628172350/archweb/scan-34.jpg"
+published: false
 
 ---
