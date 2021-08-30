@@ -2,7 +2,7 @@
 weight: 700
 category: Text
 layout: project
-title: 'ERA21 Post - krajina '
+title: 'ERA21, Post - krajina '
 description: ''
 year: 2015
 images:
@@ -11,6 +11,5 @@ images:
 - "/v1628172350/archweb/scan-32.jpg"
 - "/v1628172350/archweb/scan-35.jpg"
 - "/v1628172350/archweb/scan-34.jpg"
-published: false
 
 ---
