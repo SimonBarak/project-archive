@@ -1,4 +1,4 @@
-<div class="swiper-container" mode="slide" zoom="false">
+<div class="swiper-container" mode="slide" zoom="0">
   <div class="swiper-wrapper">
     {%- for image in page.images -%}
     <div class="swiper-slide py-2">{%- include image.html -%}</div>
@@ -6,27 +6,15 @@
   </div>
 
   {%- if page.images[1] -%}
-  <div
-    class="swiper-prev flex absolute inset-y-0 left-0 w-1/4 z-10 hover-scale"
-  >
-    <div class="self-center w-full text-2xl px-4">
+  <div class="swiper-prev flex absolute inset-y-0 left-0 w-1/4 z-10">
+    <div class="mt-50vh w-full text-2xl px-4">
       <span class="arrow"> ⟵ </span>
     </div>
   </div>
   <div
-    class="
-      swiper-next
-      outline-none
-      flex
-      absolute
-      inset-y-0
-      right-0
-      w-1/4
-      z-10
-      hover-scale
-    "
+    class="swiper-next outline-none flex absolute inset-y-0 right-0 w-1/4 z-10"
   >
-    <div class="self-center w-full text-right text-2xl px-4">
+    <div class="mt-50vh w-full text-right text-2xl px-4">
       <span class="arrow"> ⟶ </span>
     </div>
   </div>

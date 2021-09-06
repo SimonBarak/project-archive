@@ -14,8 +14,25 @@ body p {
   @apply font-body;
 }
 
+.hover-shadow:hover {
+  box-shadow: #000 20px 0 0 0;
+}
+
+.mt-50vh {
+  margin-top: 43vh;
+}
+
 .transition {
   transition: all 0.3s ease-in;
+}
+
+.swiper-container[zoom="2"] .swiper-slide {
+  overflow-x: scroll;
+}
+
+.w-screen-2xl {
+  width: 120vw;
+  max-width: none;
 }
 
 .menu-is-open {
@@ -183,19 +200,6 @@ div > a.mapboxgl-ctrl-logo,
 
 .cursor-zoom-in {
   cursor: zoom-in;
-  transition: transform 0.3s;
-
-  &:hover {
-    transform: scale(1.02);
-  }
-}
-
-.hover-scale {
-  transition: transform 0.3s;
-
-  &:hover .arrow {
-    transform: scale(1.2);
-  }
 }
 
 .cursor-zoom-out {

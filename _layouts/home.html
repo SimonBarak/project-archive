@@ -57,7 +57,7 @@ layout: default
       {% assign post_end = post.end | date: '%s' %}{% assign post_start = post.start | date: '%s' %}
       <!-- -- -->
       {% if post_end > today_date %}
-      <a class="p-1 block actual-entry {% if post.link == '' %}pointer-events-none{% endif %} hidden" data-start="{{ post_start }}" data-end="{{ post_end }}" 
+      <a class="p-1 block actual-entry {% if post.link == '' %}pointer-events-none{% endif %} hidden" data-start="{{ post_start }} data-end="{{ post_end }}" 
       href="{% if post.link != '' %}{{post.link}}{% elsif post.copy != '' %}{{site.img_url}}{{post.copy}}{% else %}/{% endif %}"
       target="_blank"
       >

@@ -5,14 +5,23 @@ const toggleFullScreen = (state) => {
   const { sliderEl, slidesArr } = state;
 
   const zoomMode = sliderEl.getAttribute("zoom");
-  console.log(zoomMode);
+
   switch (zoomMode) {
-    case "false":
-      sliderEl.setAttribute("zoom", "true");
+    case "0":
+      sliderEl.setAttribute("zoom", "1");
+      slidesArr.forEach((el) => {
+        el.classList.add("w-screen");
+        el.classList.remove("max-h-70");
+      });
+
+      slidesArr[0].scrollIntoView("alignToTop");
+      break;
+    case "1":
+      sliderEl.setAttribute("zoom", "2");
       slidesArr.forEach((el) => {
         el.classList.add("cursor-zoom-out");
-        el.classList.add("h-screen");
-        el.classList.remove("max-h-70");
+        el.classList.add("w-screen-2xl");
+        el.classList.remove("w-screen");
         el.classList.remove("cursor-zoom-in");
       });
 
@@ -20,11 +29,11 @@ const toggleFullScreen = (state) => {
       break;
 
     default:
-      sliderEl.setAttribute("zoom", "false");
+      sliderEl.setAttribute("zoom", "0");
       slidesArr.forEach((el) => {
         el.classList.add("cursor-zoom-in");
         el.classList.add("max-h-70");
-        el.classList.remove("h-screen");
+        el.classList.remove("w-screen-2xl");
         el.classList.remove("cursor-zoom-out");
       });
 
