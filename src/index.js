@@ -50,13 +50,11 @@ if (newsEl) {
       parseInt(actual.getAttribute("data-end")) > nowInMs
   );
 
-  if (justActiual.length === 0) {
-    newsEl.remove();
-  }
+  // if (justActiual.length === 0) {
+  //   newsEl.remove();
+  // }
 
-  console.log(justActiual);
-
-  justActiual.forEach((actual) => {
+  actuals.forEach((actual) => {
     actual.classList.remove("hidden");
   });
 }
