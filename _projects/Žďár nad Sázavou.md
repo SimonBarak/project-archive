@@ -5,7 +5,7 @@ latitude: 49.580128
 longitude: 15.942002
 authors: Markéta & Petr Veličkovi
 layout: project
-title: Žďár nad Sázavou, Poutní kostel sv. Jana Nepomuckého na Zelené Hoře
+title: Žďár nad Sázavou, Kostel sv. Jana Nepomuckého na Zelené Hoře
 description: 'Úprava pole poutníků realizovaná společně s rekonstrukcí kostela. Vytvoření
   důstojného prostoru, který ctí historické vazby i význam památky zapsané na seznam
   světového dědictví UNESCO.  Vytvoření volného otevřeného prostoru – reminiscence
