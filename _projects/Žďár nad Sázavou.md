@@ -36,7 +36,6 @@ images:
 - "/v1635504583/archweb/DSCF4333_p7uvkp.jpg"
 investor: Římskokatolická farnost Žďár nad Sázavou
 visualization: ''
-collaborations:
-- Tomáš Popelínský, Adam Kořistka
+collaborations: []
 
 ---
