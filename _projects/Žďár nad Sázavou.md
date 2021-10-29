@@ -1,5 +1,5 @@
 ---
-weight: 99
+weight: 34
 year: 2021
 latitude: 49.580128
 longitude: 15.942002
