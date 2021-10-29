@@ -38,6 +38,5 @@ investor: Římskokatolická farnost Žďár nad Sázavou
 visualization: ''
 collaborations:
 - Tomáš Popelínský, Adam Kořistka
-published: false
 
 ---
