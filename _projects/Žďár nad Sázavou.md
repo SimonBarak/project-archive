@@ -1,11 +1,11 @@
 ---
 weight: 99
 year: 2021
-latitude: 0
-longitude: 0
+latitude: 49.580128
+longitude: 15.942002
 authors: Markéta & Petr Veličkovi
 layout: project
-title: ''
+title: Žďár nad Sázavou, Poutní kostel sv. Jana Nepomuckého na Zelené Hoře
 description: 'Úprava pole poutníků realizovaná společně s rekonstrukcí kostela. Vytvoření
   důstojného prostoru, který ctí historické vazby i význam památky zapsané na seznam
   světového dědictví UNESCO.  Vytvoření volného otevřeného prostoru – reminiscence
@@ -20,7 +20,7 @@ description: 'Úprava pole poutníků realizovaná společně s rekonstrukcí ko
 awards: []
 media: []
 category: Stavba
-size: ''
+size: 0,41 ha
 price: ''
 images: []
 investor: ''
