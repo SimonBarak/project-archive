@@ -5,7 +5,7 @@ latitude: 0
 longitude: 0
 authors: Markéta & Petr Veličkovi, Jan Cyrany
 layout: project
-title: České Budějovice - Senovážné náměstí
+title: České Budějovice, Senovážné náměstí
 description: "CELKOVÁ KONCEPCE\n\nKompozice jako VOLNÁ práce s osou, hmotou, prostorem,
   nikoliv striktní dle geometrické osy. Umístění objektů volně do rohových těžišť,
   mimo průhledy na podstatné stávající objekty.\n\nHlavním motivem při hledání nové
@@ -157,6 +157,9 @@ description: "CELKOVÁ KONCEPCE\n\nKompozice jako VOLNÁ práce s osou, hmotou, 
   dle potřeb zadavatele.  \n"
 awards: []
 media:
+- image: ''
+  title: ''
+  link: https://www.archiweb.cz/n/souteze/o-soutez-na-podobu-rekonstrukce-ceskobudejovickeho-namesti-ma-zajem-30-atelieru
 - image: ''
   title: ''
   link: https://www.archiweb.cz/n/souteze/o-soutez-na-podobu-rekonstrukce-ceskobudejovickeho-namesti-ma-zajem-30-atelieru
