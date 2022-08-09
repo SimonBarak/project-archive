@@ -55,5 +55,6 @@ images:
 investor: Město Vimperk
 visualization: ''
 collaborations: []
+published: false
 
 ---
