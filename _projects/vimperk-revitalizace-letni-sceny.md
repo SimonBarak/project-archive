@@ -1,5 +1,5 @@
 ---
-weight: 99
+weight: 27
 year: 2022
 latitude: 49.05202149052021
 longitude: 13.77354
