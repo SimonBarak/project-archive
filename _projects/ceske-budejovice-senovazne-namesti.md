@@ -30,7 +30,7 @@ description: "CELKOVÁ KONCEPCE\n\nKompozice jako VOLNÁ práce s osou, hmotou, 
   je navržen jako střešní, pochůzí, centrální plocha s vodním prvkem. Z jižní strany
   je lemována lehkou konstrukcí se zelenou střechou. Do tohoto prostoru, který nazýváme
   „tržnicí“ ústí vstupy do podzemního parkování, zároveň je zde prostor pro trhy,
-  umístění „obchodních buněk“ včetně přístřeší zastávky MHD a také veřejného WC.\nURBANISTICKÉ
+  umístění „obchodních buněk“ včetně přístřeší zastávky MHD a také veřejného WC.\n\nURBANISTICKÉ
   ŘEŠENÍ\nHlavní tvar náměstí jasně definuje současná zástavba a doprava. Vyčištěním
   stávajícího povrchového zmatku podporujeme tvarosloví pravidelného parteru před
   muzeem a vkládáme do něj konvexní křivku půdorysné stopy kruhu. Poloha podzemního
@@ -49,7 +49,7 @@ description: "CELKOVÁ KONCEPCE\n\nKompozice jako VOLNÁ práce s osou, hmotou, 
   pohledovou osu od muzea tedy přemisťujeme do nárožní zadlážděné plochy památník
   letcům, který je v současnosti nepříliš šťastně odložen v nedefinované ploše zeleně.\nHlavní
   prostor utváří prvek „kamenného náměstí“ (s vyšším podílem zeleně) před muzeem s
-  prvkem intenzivně formovaného městského parku v prohlubni u mlýnské stoky.\nARCHITEKTONICKÉ
+  prvkem intenzivně formovaného městského parku v prohlubni u mlýnské stoky.\n\nARCHITEKTONICKÉ
   ŘEŠENÍ\nPřed muzeem vytváříme reprezentativní parter přátelský k uživatelům. Plochu
   zastřešenou hlubokým chladným stínem stromů lze využít ke kulturním akcím, trhům
   (v zastřené tržnici i nezastřešené části náměstí). Klima výrazně ovlivňujeme zejména
@@ -91,34 +91,34 @@ description: "CELKOVÁ KONCEPCE\n\nKompozice jako VOLNÁ práce s osou, hmotou, 
   kavárna - konstrukce žb., fasády sklo různé transparence, vegetační střecha, vnitřní
   povrchy a střešní terasa dřevo  \nGalerie - Žb. konstrukce, fasády sklo různé transparence,
   konstrukce druhého plaště ocel, fasáda sklo s multimediálními prvky ( LED) . Vegetační
-  pochůzí střecha\nKRAJINÁŘSKÉ ŘEŠENÍ \nHlavním prostředkem a kompozičním prvkem je
-  strom. Strom schopný snést komplikované nároky prostoru městského centra. Mění klima
-  i atmosféru. Je hlavním kompozičním prvkem, který zprostředkovává propojení stávajícího
-  zeleného prstence města. Stromy užíváme jak na rostlém terénu, tak na střešní konstrukci.
-  Na konstrukci jim dáváme dostatečný prostor pro kořenový systém o hloubce 2,5m.
-  Počítá se se sofistikovaným systémem kompozitních substrátů, ve kterých dle nejnovějších
-  zkušeností stromy v pouštním prostředí města dobře prospívají. Zároveň bude nutné
-  stromy saturovat dostatečnou dávkou vody. Voda ze zpevněných povrchů je svedena
-  do podzemní nádrže, ze které může být dále využita k zálivce, takto lze svést vodu
-  i ze střech okolních objektů, zejména Muzea a nově budovaných objektů. Druhové složení
-  bylo pečlivě zváženo. Hlavní dřevinou, kterou užíváme na parteru před muzeem je
-  dub. Ten se silně váže mimo jiné také k historii jižních Čech. Doplňkově kvůli podzimnímu
-  zbarvení užíváme javor babyka. Na terasách u vody jsou vysázeny okrasné třešně s
-  efektem jarního kvetení. Kolem pošty jsou navrženy reprezentativní stříhané platany.
-  V parkovišti u pošty je užit odolný akát.    \nDalším kompozičním prvkem zeleně
-  jsou pobytové trávníky pod závlahou (lze užít vodu z nově budovaných retenčních
-  nádrží) – situované kolem stromů před muzeem, na terasách / svazích v prohlubni
-  vedoucí k mlýnské stoce. V krajních partiích teras jsou vysázeny vyšší okrasné traviny.\nV
-  menší míře jsou užity i reprezentativní květinové záhony ve vnitřních prostorech
-  ramp před muzeem.\nDůležitým kompozičním prvkem se stávají také nenáročné extenzivní
-  zelené vegetační střechy, které jsou součástí všech nových objektů.     \nDOPRAVNÍ
-  A PROVOZNÍ ŘEŠENÍ\nPo prověření dopravního režimu a poskytnutých podkladů pro přilehlé
-  komunikace v návaznosti na celý dopravní systém města, necháváme současné dimenze
-  záměrně beze změny, stejně tak polohu zastávek MHD. Přechody pro chodce zůstávají
-  také beze změny. S ohledem na realizovatelnost projektové fáze je tento limit v
-  časové ose etapizace prozatím zásadní i s ohledem na finance.\nNájezd i výjezd do
-  podzemního parkoviště je situován z ulice Jirsíkova. Umístění bylo zvoleno jako
-  nejoptimálnější pro přirozenou orientaci uživatelů parkoviště a jejich následné
+  pochůzí střecha\n\nKRAJINÁŘSKÉ ŘEŠENÍ \nHlavním prostředkem a kompozičním prvkem
+  je strom. Strom schopný snést komplikované nároky prostoru městského centra. Mění
+  klima i atmosféru. Je hlavním kompozičním prvkem, který zprostředkovává propojení
+  stávajícího zeleného prstence města. Stromy užíváme jak na rostlém terénu, tak na
+  střešní konstrukci. Na konstrukci jim dáváme dostatečný prostor pro kořenový systém
+  o hloubce 2,5m. Počítá se se sofistikovaným systémem kompozitních substrátů, ve
+  kterých dle nejnovějších zkušeností stromy v pouštním prostředí města dobře prospívají.
+  Zároveň bude nutné stromy saturovat dostatečnou dávkou vody. Voda ze zpevněných
+  povrchů je svedena do podzemní nádrže, ze které může být dále využita k zálivce,
+  takto lze svést vodu i ze střech okolních objektů, zejména Muzea a nově budovaných
+  objektů. Druhové složení bylo pečlivě zváženo. Hlavní dřevinou, kterou užíváme na
+  parteru před muzeem je dub. Ten se silně váže mimo jiné také k historii jižních
+  Čech. Doplňkově kvůli podzimnímu zbarvení užíváme javor babyka. Na terasách u vody
+  jsou vysázeny okrasné třešně s efektem jarního kvetení. Kolem pošty jsou navrženy
+  reprezentativní stříhané platany. V parkovišti u pošty je užit odolný akát.    \nDalším
+  kompozičním prvkem zeleně jsou pobytové trávníky pod závlahou (lze užít vodu z nově
+  budovaných retenčních nádrží) – situované kolem stromů před muzeem, na terasách
+  / svazích v prohlubni vedoucí k mlýnské stoce. V krajních partiích teras jsou vysázeny
+  vyšší okrasné traviny.\nV menší míře jsou užity i reprezentativní květinové záhony
+  ve vnitřních prostorech ramp před muzeem.\nDůležitým kompozičním prvkem se stávají
+  také nenáročné extenzivní zelené vegetační střechy, které jsou součástí všech nových
+  objektů.     \n\nDOPRAVNÍ A PROVOZNÍ ŘEŠENÍ\nPo prověření dopravního režimu a poskytnutých
+  podkladů pro přilehlé komunikace v návaznosti na celý dopravní systém města, necháváme
+  současné dimenze záměrně beze změny, stejně tak polohu zastávek MHD. Přechody pro
+  chodce zůstávají také beze změny. S ohledem na realizovatelnost projektové fáze
+  je tento limit v časové ose etapizace prozatím zásadní i s ohledem na finance.\nNájezd
+  i výjezd do podzemního parkoviště je situován z ulice Jirsíkova. Umístění bylo zvoleno
+  jako nejoptimálnější pro přirozenou orientaci uživatelů parkoviště a jejich následné
   svobodné rozhodnutí o směru v opuštění lokality. Dva vchody do podzemního parkoviště
   obsloužené schodištěm a výtahem jsou situovány v místě budoucí „tržnice“. Rozměrově
   minimalizovaný vchod s vřetenovým schodištěm je situován přímo do hlavního prostoru
@@ -129,7 +129,7 @@ description: "CELKOVÁ KONCEPCE\n\nKompozice jako VOLNÁ práce s osou, hmotou, 
   možnost pohybu všemi směry. Průchozí zůstává také hlavní osa od muzea. K vodě se
   lze dostat přes terasy bezbariérově pomocí chodníku se sklonem 8%, dále může imobilní
   pokračovat po náplavce a zpět případně pomocí schodolezu se dostanou opět do úrovně
-  ulice či naopak.   \nTECHNICKÉ ŘEŠENÍ\nStavební objekt parkoviště je řešen jako
+  ulice či naopak.   \n\nTECHNICKÉ ŘEŠENÍ\nStavební objekt parkoviště je řešen jako
   železobetonová konstrukce, bílá vana. Jedná se o vodonepropustnou betonovou konstrukci,
   u které železobetonová konstrukce přejímá vedle statické funkce nosné konstrukce
   i funkci hydroizolační tzv. proti prosakující vodě. Železobetonové konstrukce jsou
