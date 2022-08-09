@@ -54,7 +54,6 @@ images:
 - "/v1660054107/archweb/_1.2.b_09c_PROM%C3%8DT%C3%81RNA_-_pohledy_qyfby1.jpg"
 investor: Město Vimperk
 visualization: ''
-collaborations:
-- Adam Kořistka
+collaborations: []
 
 ---
