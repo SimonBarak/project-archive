@@ -5,7 +5,7 @@ latitude: 49.05202149052021
 longitude: 13.77354
 authors: Markéta & Petr Veličkovi, Tomáš Popelínský
 layout: project
-title: Vimperk - Revitalizace letní scény
+title: Vimperk, Revitalizace letní scény
 description: "Prostor je definován historií areálu, funkční náplní, reliéfem, stavbami
   a komunikačními trasami. Koncept je vystavěn na sjednocení výrazu stavebních objektů,
   respektování stávající funkční náplně a doplnění nové. Komunikace jsme maximálně
