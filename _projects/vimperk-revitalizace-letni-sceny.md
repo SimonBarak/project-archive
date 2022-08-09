@@ -37,7 +37,7 @@ images:
 - "/v1660054091/archweb/_1.2.b_09a_PROM%C3%8DT%C3%81RNA_-_p%C5%AFdorys_st%C5%99echy_chatrf.jpg"
 - "/v1660054107/archweb/_1.2.b_09c_PROM%C3%8DT%C3%81RNA_-_pohledy_qyfby1.jpg"
 investor: Město Vimperk
-visualization: ''
+visualization: Tomáš Popelínský
 collaborations:
 - ''
 
