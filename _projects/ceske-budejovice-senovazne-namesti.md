@@ -1,8 +1,8 @@
 ---
 weight: 26
 year: 2022
-latitude: 0
-longitude: 0
+latitude: 48.972767
+longitude: 14.477497
 authors: Markéta & Petr Veličkovi, Jan Cyrany
 layout: project
 title: České Budějovice, Senovážné náměstí
@@ -164,7 +164,7 @@ media:
   title: ''
   link: https://www.archiweb.cz/n/souteze/o-soutez-na-podobu-rekonstrukce-ceskobudejovickeho-namesti-ma-zajem-30-atelieru
 category: Navrh
-size: 0,82 ha
+size: 1,76 ha
 price: cca 500 mil. Kč
 images:
 - "/v1660056399/archweb/ml%C3%BDnsk%C3%A1_stoka_ehtzsy.jpg"
@@ -176,6 +176,7 @@ images:
 - "/v1660056356/archweb/Panel2z_eyj7gw.jpg"
 investor: Město České Budějovice
 visualization: Jan Cyrany
-collaborations: []
+collaborations:
+- ''
 
 ---
