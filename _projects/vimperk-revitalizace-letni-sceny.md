@@ -52,7 +52,7 @@ images:
 - "/v1660053979/archweb/_1.2.b_08b_P%C3%93DIUM_SE_Z%C3%81ZEM%C3%8DM_-_pohledy_ui5j36.jpg"
 - "/v1660054091/archweb/_1.2.b_09a_PROM%C3%8DT%C3%81RNA_-_p%C5%AFdorys_st%C5%99echy_chatrf.jpg"
 - "/v1660054107/archweb/_1.2.b_09c_PROM%C3%8DT%C3%81RNA_-_pohledy_qyfby1.jpg"
-investor: ''
+investor: Město Vimperk
 visualization: ''
 collaborations: []
 
