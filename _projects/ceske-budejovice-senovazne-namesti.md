@@ -177,6 +177,6 @@ images:
 investor: Město České Budějovice
 visualization: Jan Cyrany
 collaborations:
-- ''
+- Viktor Nohál, Tomáš Popelínský
 
 ---
