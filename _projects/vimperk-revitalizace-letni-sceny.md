@@ -17,23 +17,7 @@ description: "Prostor je definován historií areálu, funkční náplní, reli�
   zdí hlediště umisťujeme modulární objekt wc, šaten a skladu. Objekt bývalé promítárny
   rozšiřujeme do svahu a přestřešujeme betonovou deskou, která slouží jako vyhlídka
   / zahrádka potenciální kavárny přístupná z ulice Podzámčí. Vegetaci sjednocujeme,
-  doplňujeme typické prvky místní krajiny (louky, sad). Minimalizujeme údržbu.  \n\nKONCEPT
-  \nProstor je definován morfologií, funkční náplní a stávajícími objekty - VSTUPNÍM
-  OBJEKTEM PRO PRODEJ LÍSTKŮ, KAPACITNÍMI WC a BÝVALOU PROMÍTÁRNOU. Doplněny jsou
-  dle zadání JEVIŠTĚ S HLEDIŠTĚM, prostor pro PÁRTY STAN, prostor pro STÁNKY, DĚTSKÉ
-  HŘIŠTĚ PRO 2 VĚKOVÉ KATEGORIE. Letní scénu účelně propojujeme komunikační sítí,
-  ohrazujeme, vytváříme svébytný prostor s jasným architektonickým výrazem. Cestní
-  sít maximálně zjednodušujeme při zachování prostupnosti a obslužnosti areálu. Vstoupíme-li
-  hlavním vstupem a projdeme-li kolem WC, otevře se nám po pravé straně cesty nové
-  DĚTSKÉ HŘIŠTĚ. V něm využíváme přirozené morfologie terénu (skluzavky na svahu,
-  umístění rysa) a doplňujeme herní prvky s lavičkami. V blízkosti je situováno pítko
-  i stojan na kola. Pro starší děti umisťujeme po levé straně prolézačku. Na první
-  křižovatce pokračujeme 1) směrem k arboretu, po cestě míjíme stánky s občerstvením,
-  párty stan a jeviště s hledištěm, nebo 2) k bývalé promítárně, kde procházíme kolem
-  dětského hřiště a nového sadu krajových odrůd ovoce. Obě trasy jsou dlážděné kamenem
-  – žulovým odsekem a jsou vhodné pro pojezd automobilů. U bývalé promítárny je možnost
-  otočení automobilu na štěrkovém trávníku. Jediná trasa určená výhradně pro pěší
-  chůzi je „zkratka“ podél arboreta.     \n\n"
+  doplňujeme typické prvky místní krajiny (louky, sad). Minimalizujeme údržbu.  \n\n"
 awards: []
 media: []
 category: Navrh
