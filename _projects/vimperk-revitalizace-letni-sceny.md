@@ -55,6 +55,5 @@ images:
 investor: ''
 visualization: ''
 collaborations: []
-published: false
 
 ---
