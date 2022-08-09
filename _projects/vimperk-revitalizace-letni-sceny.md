@@ -56,5 +56,6 @@ investor: Město Vimperk
 visualization: ''
 collaborations:
 - Adam Kořistka
+published: false
 
 ---
