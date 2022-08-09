@@ -6,7 +6,7 @@ images:
 - "/v1660055065/archweb/hrdejovicke-listy-jaro-leto-2022-12_oe9wma.jpg"
 year: 2022
 description: ''
-authors: ''
+authors: Markéta & Petr Veličkovi
 publisher: ''
 weight: 
 link: https://www.hrdejovice-opatovice.cz/www/obechrdejovice/fs/hrdejovicke-listy-jaro-leto-2022.pdf
