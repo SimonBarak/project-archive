@@ -44,6 +44,10 @@ latitude: 49.753792
 longitude: 13.00066
 category: Stavba
 awards:
+- title: Cena Víta Brandy 2022
+  placement: 'Nominace na Hlavní cenu '
+  link: https://www.cenavitabrandy.cz/
+  year: 2022
 - title: BIGSEE 2020
   placement: Winner
   link: https://bigsee.eu/revitalization-of-masaryk-square-in-the-urban-conservation-area-in-the-town-of-stribro-silver-town-stribro/
