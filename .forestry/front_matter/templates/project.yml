@@ -160,6 +160,7 @@ fields:
     required: true
   hidden: true
 pages:
+- _projects/ceske-budejovice-rozsireni-parku-4dvory.md
 - _projects/ceske-budejovice-senovazne-namesti.md
 - _projects/expozice-středomoří.md
 - _projects/historické-jádro-obce.md
