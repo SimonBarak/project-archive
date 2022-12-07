@@ -27,6 +27,5 @@ images:
 investor: Město České Budějovice
 visualization: Jan Cyrany
 collaborations: []
-published: false
 
 ---
