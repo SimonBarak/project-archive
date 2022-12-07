@@ -41,6 +41,5 @@ images:
 investor: Město Brno
 visualization: Jan Cyrany
 collaborations: []
-published: false
 
 ---
