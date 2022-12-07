@@ -5,7 +5,7 @@ latitude: 48.989624
 longitude: 14.445031
 authors: Markéta & Petr Veličkovi, David Prudík
 layout: project
-title: České Budějovice - rozšíření parku 4Dvory
+title: České Budějovice, rozšíření parku 4Dvory
 description: "Návrh rozšíření parku v areálu bývalého vojenského cvičiště a kasáren,
   mezi sídlišti Máj a Vltava, které je v procesu přestavby na novou obytnou čtvrť
   s občanskou vybaveností. Nově řešené území navazuje na již existující Park 4 Dvory,
