@@ -27,6 +27,5 @@ images:
 investor: Obec Hrdějovice
 visualization: ''
 collaborations: []
-published: false
 
 ---
