@@ -11,7 +11,10 @@ description: "Návrh rozšíření parku v areálu bývalého vojenského cviči
   s občanskou vybaveností. Nově řešené území navazuje na již existující Park 4 Dvory,
   jehož koncepce vznikla v rámci veřejné architektonické soutěže (2012).\t\t\n"
 awards: []
-media: []
+media:
+- image: ''
+  title: Rozšíření Parku 4Dvory
+  link: https://www.lokalita4d.cz/
 category: Navrh
 size: 5,3 ha
 price: cca 25 mil.
