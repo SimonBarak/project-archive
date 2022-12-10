@@ -1,7 +1,7 @@
 ---
 category: Kniha
 layout: project
-title: Zahrada, Park, Krajina
+title: Zahrada Park Krajina
 images:
 - "/v1670698607/archweb/311430144_633914178279933_2591946586956725504_n_tco7rh.jpg"
 - "/v1670698606/archweb/311144143_633915044946513_3635586915723768725_n_z2as2h.jpg"
