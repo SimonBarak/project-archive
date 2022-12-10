@@ -16,5 +16,6 @@ publisher: Zahrada, Park, Krajina
 weight: 
 link: https://szkt.cz/vyrobek/zahrada-park-krajina-souteze-2-2022-copy
 isbn: ''
+published: false
 
 ---
