@@ -1,8 +1,7 @@
 ---
 year: 2016
-category: Kniha
-weight: 900
 category: Text
+weight: 450
 layout: project
 title: Pecsrl 2016
 description: 'Volume 7 of the series IGF-Forschungsberichte summarizes the 27th session
