@@ -2,7 +2,7 @@
 weight: 800
 category: Text
 layout: project
-title: Zahrada, park, krajina
+title: Zahrada Park Krajina
 description: Krajinářská architektura a veřejný prostor
 year: 2008
 images:
