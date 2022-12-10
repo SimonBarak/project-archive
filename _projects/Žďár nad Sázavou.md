@@ -20,6 +20,7 @@ category: Stavba
 size: 0,41 ha
 price: ''
 images:
+- "/v1670696906/archweb/DSCF8296_aze8vg.jpg"
 - "/v1635504242/archweb/DSCF4304_4_bxy7ja.jpg"
 - "/v1635504457/archweb/DSCF4263_hd8nto.jpg"
 - "/v1635504116/archweb/DSCF4237_ngjwir.jpg"
