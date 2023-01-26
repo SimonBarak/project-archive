@@ -9,16 +9,33 @@ layout: default
   <div class="flex justify-center">{{page.embed}}</div>
 </section>
 {% endif %} {% if page.description and page.description != "" %}
-<section class="pb-16 lg:pb-24">
+<section class="pb-16">
   <div class="max-w-xl mx-auto text-lg px-5">{{ page.description }}</div>
 </section>
 {% endif %}
 
-<section class="pb-16 lg:pb-24">
+<section class="pb-16">
   <div class="max-w-xl mx-auto px-5 text-lg">
     {%- include project-table.html -%}
   </div>
 </section>
+
+{% if page.odkaz_na_navrh and page.odkaz_na_navrh != "" %}
+<section class="pb-16">
+  <div class="max-w-xl px-5 mx-auto">
+    <a
+      class="flex px-4 py-4 rounded btn-1 hover:bg-blue-200 transition text-xl"
+      href="{{page.odkaz_na_navrh}}"
+    >
+      <div class="flex-grow">
+        {% if page.category == "Navrh" %} Realizace projektu {% endif %} {% if
+        page.category == "Stavba" %} Návrh projektu {% endif %}
+      </div>
+      <div>⟶</div>
+    </a>
+  </div>
+</section>
+{% endif %}
 
 <!-- . -->
 {% if page.link and page.link != "" %}
