@@ -13,7 +13,7 @@ sections:
   - project
 - type: directory
   path: _projects
-  label: Návrhy
+  label: Stavby a Návrhy
   create: documents
   match: "**/*"
   templates:

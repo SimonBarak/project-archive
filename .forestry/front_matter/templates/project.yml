@@ -2,209 +2,208 @@
 label: Project
 hide_body: true
 fields:
-  - name: weight
-    type: number
-    label: Order
-    description: ""
-    default: "99"
-    required: true
-    config:
-      min:
-      max:
-      step:
-  - type: text
-    name: title
-    label: Title
-  - name: description
-    type: textarea
-    default: ""
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Description
-  - name: category
-    type: select
-    default: ""
-    config:
-      required: false
-      options:
-        - Stavba
-        - Film
-        - Navrh
-      source:
-        type: simple
-        section:
-        file:
-        path:
-    label: Category
-    description: typo of project
-  - name: odkaz_na_navrh
+- name: weight
+  type: number
+  label: Order
+  description: ''
+  default: '99'
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- type: text
+  name: title
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: category
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Stavba
+    - Film
+    - Navrh
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: typo of project
+- name: odkaz_na_navrh
+  type: text
+  config:
+    required: false
+  label: Odkaz na návrh
+- name: awards
+  type: field_group_list
+  fields:
+  - name: title
     type: text
     config:
       required: false
-    label: Odkaz na návrh
-  - name: awards
-    type: field_group_list
-    fields:
-      - name: title
-        type: text
-        config:
-          required: false
-        label: Title
-      - name: placement
-        type: text
-        config:
-          required: false
-        label: Placement
-      - name: link
-        type: text
-        config:
-          required: false
-        label: Link
-      - name: year
-        type: number
-        label: Year
-        description: ""
-        default: 0
-        required: true
-        config:
-          min:
-          max:
-          step:
+    label: Title
+  - name: placement
+    type: text
     config:
-      min:
-      max:
-      labelField:
-    label: Awards
-  - name: media
-    type: field_group_list
-    fields:
-      - name: image
-        type: file
-        config:
-          maxSize: 64
-        label: Image
-      - name: title
-        type: text
-        config:
-          required: false
-        label: Title
-      - name: link
-        type: text
-        config:
-          required: false
-        label: Link
+      required: false
+    label: Placement
+  - name: link
+    type: text
     config:
-      min:
-      max:
-      labelField:
-    label: Projekt v mediích
+      required: false
+    label: Link
   - name: year
     type: number
     label: Year
-    description: ""
-    default: "2019"
-    required: true
-    config:
-      min:
-      max:
-      step:
-  - type: text
-    name: size
-    label: Size
-  - type: text
-    name: price
-    label: Price
-  - type: image_gallery
-    name: images
-    label: Images
-  - name: latitude
-    type: number
-    label: Latitude
+    description: ''
     default: 0
     required: true
     config:
-      min:
-      max:
-      step:
-    description: Latitude form map -> www.latlong.net
-  - name: longitude
-    type: number
-    label: Longitude
-    description: Longitude for map pin
-    default: 0
+      min: 
+      max: 
+      step: 
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Awards
+- name: media
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Projekt v mediích
+- name: year
+  type: number
+  label: Year
+  description: ''
+  default: '2019'
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- type: text
+  name: size
+  label: Size
+- type: text
+  name: price
+  label: Price
+- type: image_gallery
+  name: images
+  label: Images
+- name: latitude
+  type: number
+  label: Latitude
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  description: Latitude form map -> www.latlong.net
+- name: longitude
+  type: number
+  label: Longitude
+  description: Longitude for map pin
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- type: text
+  name: authors
+  label: Authors
+  default: Markéta & Petr Veličkovi
+- type: text
+  name: investor
+  label: Investor
+- type: text
+  name: visualization
+  label: Visualization
+- name: collaborations
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Collaborations
+- type: text
+  name: layout
+  label: layout
+  default: project
+  config:
     required: true
-    config:
-      min:
-      max:
-      step:
-  - type: text
-    name: authors
-    label: Authors
-    default: Markéta & Petr Veličkovi
-  - type: text
-    name: investor
-    label: Investor
-  - type: text
-    name: visualization
-    label: Visualization
-  - name: collaborations
-    type: list
-    config:
-      use_select: false
-      min:
-      max:
-    label: Collaborations
-  - type: text
-    name: layout
-    label: layout
-    default: project
-    config:
-      required: true
-    hidden: true
+  hidden: true
 pages:
-  - _projects/brno-nabrezi-reky-svratky.md
-  - _projects/ceske-budejovice-rozsireni-parku-4dvory.md
-  - _projects/ceske-budejovice-senovazne-namesti.md
-  - _projects/expozice-středomoří.md
-  - _projects/historické-jádro-obce.md
-  - _projects/hrdejovice-zastavka.md
-  - _projects/krajina-karmelitánského-kláštera.md
-  - _projects/krajinná-výstava-bez-hranic.md
-  - _projects/kříž.md
-  - _projects/landesgartenschau.md
-  - _projects/lesopark-v-zátiší.md
-  - _projects/luze-navrsi-poutniho-kostela-na-chlumku.md
-  - _projects/masarykovo-namesti.md
-  - _projects/městský-park.md
-  - _projects/náměstí-osvobození.md
-  - _projects/náměstí-t-g-masaryka.md
-  - _projects/náměstí.md
-  - _projects/náměstíčko-sv-šebestiána.md
-  - _projects/náves.md
-  - _projects/obnova-areálu-zámku-valeč.md
-  - _projects/obnova-zástavby-a-parku.md
-  - _projects/palackého-náměstí.md
-  - _projects/park-4Dvory.md
-  - _projects/park-hirundo.md
-  - _projects/park-setkání.md
-  - _projects/prezentace-archeologických-nálezů.md
-  - _projects/rekonstrukce-dopravního-hřiště.md
-  - _projects/revitalizace-brownfield-borovina.md
-  - _projects/revitalizace-krajiny-mramorových-lomů.md
-  - _projects/revitalizace-náměstí-míru.md
-  - _projects/revitalizace-veřejných-prostranství-1.md
-  - _projects/schodiště-a-rampy.md
-  - _projects/schodiště-v-zahradě-hradu-kámen.md
-  - _projects/tempelhof.md
-  - _projects/veřejná-prostranství.md
-  - _projects/vimperk-revitalizace-letni-sceny.md
-  - _projects/zahrady.md
-  - _projects/záchrana-stromořadí.md
-  - _projects/zámecká-obora.md
-  - _projects/zámecký-park.md
-  - _projects/Žďár nad Sázavou.md
-  - _stavby/test.md
-  - _stavby/kříž.md
+- _projects/brno-nabrezi-reky-svratky.md
+- _projects/ceske-budejovice-rozsireni-parku-4dvory.md
+- _projects/ceske-budejovice-senovazne-namesti.md
+- _projects/expozice-středomoří.md
+- _projects/historické-jádro-obce.md
+- _projects/hrdejovice-zastavka.md
+- _projects/krajina-karmelitánského-kláštera.md
+- _projects/krajinná-výstava-bez-hranic.md
+- _projects/kříž.md
+- _projects/landesgartenschau.md
+- _projects/lesopark-v-zátiší.md
+- _projects/luze-navrsi-poutniho-kostela-na-chlumku.md
+- _projects/masarykovo-namesti.md
+- _projects/městský-park.md
+- _projects/náměstí-osvobození.md
+- _projects/náměstí-t-g-masaryka.md
+- _projects/náměstí.md
+- _projects/náměstíčko-sv-šebestiána.md
+- _projects/náves.md
+- _projects/obnova-areálu-zámku-valeč.md
+- _projects/obnova-zástavby-a-parku.md
+- _projects/palackého-náměstí.md
+- _projects/park-4Dvory.md
+- _projects/park-hirundo.md
+- _projects/park-setkání.md
+- _projects/prezentace-archeologických-nálezů.md
+- _projects/rekonstrukce-dopravního-hřiště.md
+- _projects/revitalizace-brownfield-borovina.md
+- _projects/revitalizace-krajiny-mramorových-lomů.md
+- _projects/revitalizace-náměstí-míru.md
+- _projects/revitalizace-veřejných-prostranství-1.md
+- _projects/schodiště-a-rampy.md
+- _projects/schodiště-v-zahradě-hradu-kámen.md
+- _projects/tempelhof.md
+- _projects/veřejná-prostranství.md
+- _projects/vimperk-revitalizace-letni-sceny.md
+- _projects/zahrady.md
+- _projects/záchrana-stromořadí.md
+- _projects/zámecká-obora.md
+- _projects/zámecký-park.md
+- _projects/Žďár nad Sázavou.md
+- _stavby/test.md
