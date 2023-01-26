@@ -24,6 +24,11 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: odkaz_na_navrh
+  type: text
+  config:
+    required: false
+  label: Odkaz na návrh
 - name: awards
   type: field_group_list
   fields:
