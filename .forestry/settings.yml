@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: _stavby
   label: Stavby
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - project
