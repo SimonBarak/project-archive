@@ -1,16 +1,14 @@
 {% if include.value[0] %}
 <tr>
   <td
-    class="w-1/3  py-3 border-0 border-b border-gray-400 text-gray-500 align-top"
+    class="w-1/3 py-3 border-0 border-b border-gray-400 text-gray-500 align-top"
   >
     {{include.title}}
   </td>
   <th class="py-3 border-0 border-b border-gray-400">
     {%- for item in include.value -%}
-
-    <div>
-      <span class="text-gray-500 text-xs">{{item.profession}}</span>
-      <span>{{item.name}}</span>
+    <div class="pb-1">
+      <span class="text-gray-500">{{item}}</span>
     </div>
     {%-endfor -%}
   </th>
