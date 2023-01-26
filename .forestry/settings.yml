@@ -2,72 +2,64 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin/"
-webhook_url:
+webhook_url: 
 sections:
-  - type: directory
-    path: _realizations
-    label: Stavby
-    create: documents
-    match: "**/*"
-    templates:
-      - project
-  - type: directory
-    path: _projects
-    label: Návrhy
-    create: documents
-    match: "**/*"
-    templates:
-      - project
-  - type: directory
-    path: _knihy
-    label: Knihy
-    create: documents
-    match: "**/*"
-    templates:
-      - kniha
-  - type: directory
-    path: _filmy
-    label: Filmy
-    create: documents
-    match: "**/*"
-  - type: directory
-    path: _texty
-    label: Publikace
-    create: documents
-    match: "**/*"
-    templates:
-      - publikace
-  - type: document
-    path: _data/news.yml
-    label: Ve zprávách
-  - type: document
-    path: _data/actual.yml
-    label: Aktuality
-  - type: document
-    path: studio.md
-    label: Studio
-  - type: document
-    path: _data/studio.yml
-    label: Markéta a Petr
-  - type: document
-    path: _data/contact.yml
-    label: Kontakty
-  - type: document
-    path: _data/collaborations.yml
-    label: Spolupráce
+- type: directory
+  path: _projects
+  label: Stavby / návrhy
+  create: documents
+  match: "**/*"
+  templates:
+  - project
+- type: directory
+  path: _knihy
+  label: Knihy
+  create: documents
+  match: "**/*"
+  templates:
+  - kniha
+- type: directory
+  path: _filmy
+  label: Filmy
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _texty
+  label: Publikace
+  create: documents
+  match: "**/*"
+  templates:
+  - publikace
+- type: document
+  path: _data/news.yml
+  label: Ve zprávách
+- type: document
+  path: _data/actual.yml
+  label: Aktuality
+- type: document
+  path: studio.md
+  label: Studio
+- type: document
+  path: _data/studio.yml
+  label: Markéta a Petr
+- type: document
+  path: _data/contact.yml
+  label: Kontakty
+- type: document
+  path: _data/collaborations.yml
+  label: Spolupráce
 upload_dir: archweb
-public_path: ""
+public_path: ''
 front_matter_path: https://res.cloudinary.com/dhxmg9p4i/image/archweb
 use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
-    - JEKYLL_ENV=staging
+  - JEKYLL_ENV=staging
   preview_output_directory: _site
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command:
-    bundle exec jekyll serve --drafts --unpublished --future
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     --port 8080 --host 0.0.0.0 -d _site
