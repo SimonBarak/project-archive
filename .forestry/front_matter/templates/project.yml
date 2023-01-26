@@ -24,6 +24,22 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: category
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Stavba
+    - Film
+    - Navrh
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: typo of project
 - name: odkaz_na_navrh
   type: text
   config:
@@ -95,22 +111,6 @@ fields:
     min: 
     max: 
     step: 
-- name: category
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - Stavba
-    - Film
-    - Navrh
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Category
-  description: typo of project
 - type: text
   name: size
   label: Size
