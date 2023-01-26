@@ -5,8 +5,15 @@ admin_path: "/admin/"
 webhook_url: 
 sections:
 - type: directory
+  path: _stavby
+  label: Stavby
+  create: all
+  match: "**/*"
+  templates:
+  - project
+- type: directory
   path: _projects
-  label: Stavby / návrhy
+  label: Návrhy
   create: documents
   match: "**/*"
   templates:
