@@ -38,5 +38,6 @@ images:
 investor: Římskokatolická farnost Žďár nad Sázavou
 visualization: ''
 collaborations: []
+odkaz_na_navrh: https://mparch.cz/projects/revitalizace-n%C3%A1m%C4%9Bst%C3%AD-m%C3%ADru.html
 
 ---
