@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: _stavby
-  label: Stavby
+  label: Stavby.
   create: documents
   match: "**/*"
   templates:
