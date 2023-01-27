@@ -44,7 +44,9 @@ fields:
   type: text
   config:
     required: false
-  label: Odkaz na návrh
+  label: Odkaz na realizaci/návrh
+  description: Otevřete stránku s realizaci nebo návrhem v prohlížeči a zkopírujte
+    odkaz
 - name: awards
   type: field_group_list
   fields:
