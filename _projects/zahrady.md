@@ -43,5 +43,4 @@ investor: ""
 visualization: ""
 slug: ""
 year:
-collaborations: []
 ---

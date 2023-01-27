@@ -22,5 +22,4 @@ latitude: 49.424069
 longitude: 15.015506
 investor: Kraj Vysočina
 visualization: ""
-collaborations: []
 ---

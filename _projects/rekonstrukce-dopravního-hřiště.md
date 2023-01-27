@@ -49,5 +49,7 @@ longitude: 17.127629
 investor: Město Uničov
 visualization: Adam Kořistka
 collaborations:
-  - Tomáš Bílek, Tomáš Popelínský, Kateřina Sapáková Záleská
+  - Tomáš Bílek
+  - Tomáš Popelínský
+  - Kateřina Sapáková Záleská
 ---

@@ -36,5 +36,4 @@ latitude: 50.118421
 longitude: 14.416604
 investor: Botanická zahrada Praha Trója
 visualization: Jan Cyrany
-collaborations: []
 ---

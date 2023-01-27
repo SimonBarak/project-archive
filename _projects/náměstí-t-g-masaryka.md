@@ -69,6 +69,6 @@ latitude: 49.412822
 longitude: 14.668553
 investor: Město Tábor
 visualization: Jan Cyrany
-collaborations: []
+
 location: ""
 ---

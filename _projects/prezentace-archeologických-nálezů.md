@@ -29,5 +29,4 @@ longitude: 17.449556
 investor: ""
 visualization: ""
 slug: ""
-collaborations: []
 ---

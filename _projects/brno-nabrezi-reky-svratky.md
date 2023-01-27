@@ -6,7 +6,8 @@ longitude: 16.603687
 authors: Markéta & Petr Veličkovi
 layout: project
 title: Brno, Nábřeží řeky Svratky
-description: "Celé nábřeží pojímáme jako živý proudící veřejný prostor s pobytovými
+description:
+  "Celé nábřeží pojímáme jako živý proudící veřejný prostor s pobytovými
   místy u řeky s různou mírou zklidnění.\nPovrchy: Zpevněný mlatový, litý beton, dřevěný
   povrch, kamenná betonová zeď.    \nDoprava: Celým územím se vine cyklo i trasa pro
   pěší. Návštěvníci překonávají dvě mimoúrovňová křížení a 2 přechody v úrovni. V
@@ -23,23 +24,21 @@ description: "Celé nábřeží pojímáme jako živý proudící veřejný pros
 awards: []
 media: []
 category: Navrh
-size: ''
-price: ''
+size: ""
+price: ""
 images:
-- "/v1670441219/archweb/dF0000_ohuobo.jpg"
-- "/v1670441011/archweb/pudorys_1_portfolio_jjuiby.jpg"
-- "/v1670441220/archweb/dF0010_ylbgor.jpg"
-- "/v1670441221/archweb/dF0020_qzjzwe.jpg"
-- "/v1670441005/archweb/pudorys_2_portfolio_mbemh9.jpg"
-- "/v1670441002/archweb/pudorys_4_portfolio_hzuoib.jpg"
-- "/v1670441214/archweb/dF0030_u4iy7d.jpg"
-- "/v1670441010/archweb/molo_legenda_jwzcy6.jpg"
-- "/v1670441014/archweb/%C5%99eka_legenda_vjafnv.jpg"
-- "/v1670441139/archweb/dF0050_rvxp5m.jpg"
-- "/v1670441221/archweb/dF0040_xwk93g.jpg"
-- "/v1670440997/archweb/pudorys_3_portfolio_soddq9.jpg"
+  - "/v1670441219/archweb/dF0000_ohuobo.jpg"
+  - "/v1670441011/archweb/pudorys_1_portfolio_jjuiby.jpg"
+  - "/v1670441220/archweb/dF0010_ylbgor.jpg"
+  - "/v1670441221/archweb/dF0020_qzjzwe.jpg"
+  - "/v1670441005/archweb/pudorys_2_portfolio_mbemh9.jpg"
+  - "/v1670441002/archweb/pudorys_4_portfolio_hzuoib.jpg"
+  - "/v1670441214/archweb/dF0030_u4iy7d.jpg"
+  - "/v1670441010/archweb/molo_legenda_jwzcy6.jpg"
+  - "/v1670441014/archweb/%C5%99eka_legenda_vjafnv.jpg"
+  - "/v1670441139/archweb/dF0050_rvxp5m.jpg"
+  - "/v1670441221/archweb/dF0040_xwk93g.jpg"
+  - "/v1670440997/archweb/pudorys_3_portfolio_soddq9.jpg"
 investor: Město Brno
 visualization: Jan Cyrany
-collaborations: []
-
 ---

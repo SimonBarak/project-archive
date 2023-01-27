@@ -20,5 +20,4 @@ latitude: 49.835204
 longitude: 18.181457
 investor: Městská část Poruba
 visualization: ""
-collaborations: []
 ---

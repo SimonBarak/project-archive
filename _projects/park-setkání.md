@@ -29,7 +29,7 @@ latitude: 49.294114
 longitude: 15.484448
 investor: Město Třešť
 visualization: ""
-collaborations: []
+
 media:
   - image: ""
     title: ""

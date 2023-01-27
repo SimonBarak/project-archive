@@ -22,5 +22,4 @@ latitude: "45.546890"
 longitude: "11.280630"
 investor: Město Chiampo - Italy
 visualization: Jan Cyrany
-collaborations: []
 ---

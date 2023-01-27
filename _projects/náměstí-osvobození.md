@@ -24,6 +24,6 @@ latitude: 49.88187
 longitude: 16.87627
 investor: Město Zábřeh
 visualization: Jan Cyrany
-collaborations: []
+
 location: ""
 ---

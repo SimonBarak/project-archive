@@ -23,5 +23,4 @@ latitude: 50.308277
 longitude: "17.079410"
 investor: Obec Skorošice
 visualization: ""
-collaborations: []
 ---

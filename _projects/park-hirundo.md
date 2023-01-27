@@ -29,5 +29,4 @@ latitude: 50.075519
 longitude: 12.355827
 investor: Město Cheb
 visualization: ""
-collaborations: []
 ---

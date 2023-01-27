@@ -31,6 +31,6 @@ longitude: 15.418971
 investor: Řád Karmelitánů
 visualization: Jan Cyrany
 slug: ""
-collaborations: []
+
 embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Y0e1rWYp9Hk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---

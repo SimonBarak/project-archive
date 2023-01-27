@@ -6,17 +6,16 @@ longitude: 0
 authors: Markéta & Petr Veličkovi
 layout: project
 title: Test
-description: ''
-category: ''
-odkaz_na_navrh: ''
+description: ""
+category: ""
+odkaz_na_navrh: ""
 awards: []
 media: []
-size: ''
-price: ''
+size: ""
+price: ""
 images: []
-investor: ''
-visualization: ''
-collaborations: []
-published: false
+investor: ""
+visualization: ""
 
+published: false
 ---

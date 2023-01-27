@@ -34,5 +34,4 @@ latitude: 48.332261
 longitude: 7.837945
 investor: Město Lahr- Germany
 visualization: Jan Cyrany, Markéta & Petr Veličkovi
-collaborations: []
 ---

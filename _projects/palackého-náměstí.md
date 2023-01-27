@@ -46,5 +46,4 @@ longitude: 16.413675
 investor: Město Lomnice
 visualization: Tomáš Popelínský
 slug: ""
-collaborations: []
 ---

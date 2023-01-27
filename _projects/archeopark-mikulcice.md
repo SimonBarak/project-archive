@@ -36,7 +36,7 @@ images:
 latitude: 48.804363
 longitude: 17.08574
 category: Stavba
-collaborations: []
+
 awards:
   - title:
       Urbanisticko-architektonická soutěž „Archeopark Mikulčice – Kopčany – česká

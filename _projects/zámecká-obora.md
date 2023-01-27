@@ -27,5 +27,4 @@ latitude: 49.337404
 longitude: 17.589578
 investor: ""
 visualization: ""
-collaborations: []
 ---

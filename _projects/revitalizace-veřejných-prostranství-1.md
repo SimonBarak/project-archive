@@ -26,5 +26,4 @@ latitude: 49.108868
 longitude: 16.057346
 investor: soukromý investor
 visualization: Jan Cyrany
-collaborations: []
 ---

@@ -95,6 +95,6 @@ latitude: 49.161062
 longitude: 14.177252
 investor: Město Vodňany
 visualization: Jan Cyrany
-collaborations: []
+
 media: []
 ---

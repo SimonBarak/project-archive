@@ -36,5 +36,4 @@ latitude: "52.472970"
 longitude: 13.403737
 investor: Stadt Berlin
 visualization: Jan Cyrany
-collaborations: []
 ---

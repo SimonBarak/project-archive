@@ -42,6 +42,6 @@ images:
   - "/v1600771835/archweb/2_g45kzp.jpg"
 investor: Město Luže
 visualization: ""
-collaborations: []
+
 media: []
 ---

@@ -37,6 +37,6 @@ latitude: 49.949459
 longitude: 14.101753
 investor: Obec Tetín
 visualization: ""
-collaborations: []
+
 location: ""
 ---
