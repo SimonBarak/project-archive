@@ -40,5 +40,6 @@ investor: Město Vimperk
 visualization: Tomáš Popelínský
 collaborations:
 - ''
+odkaz_na_navrh: https://mparch.cz/projects/hrdejovice-zastavka.html
 
 ---
