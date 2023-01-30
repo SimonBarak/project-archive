@@ -167,6 +167,7 @@ fields:
     required: true
   hidden: true
 pages:
+- _projects/banska-bystrica-obnova-vojenskeho-hrbitova-majeri.md
 - _projects/brno-nabrezi-reky-svratky.md
 - _projects/ceske-budejovice-rozsireni-parku-4dvory.md
 - _projects/ceske-budejovice-senovazne-namesti.md
