@@ -29,6 +29,5 @@ investor: Město Banská Bystrica
 visualization: ''
 collaborations:
 - ''
-published: false
 
 ---
