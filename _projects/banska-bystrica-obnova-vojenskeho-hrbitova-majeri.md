@@ -5,7 +5,7 @@ latitude: 48.740468
 longitude: 19.179623
 authors: Markéta & Petr Veličkovi
 layout: project
-title: Banská Bystrica - Obnova vojenského hřbitova - Majeri
+title: Banská Bystrica, obnova vojenského hřbitova - Majeri
 description: |
   Ztratu úcty k našim mrtvým predkom a k ľuďom všeobecne behom obdobia fašismu i socialismu nemožno podporovať formálnym okrášľovaním dnešnej podoby pôvodného miesta, zvlášt keď sa jedná o vojenský cintorín, kde stále odpočívajú naši zosnulí.
   Návrh vychádza z možnosti etapizáce realizácie celého konceptu. Pokiaľ budú naplnené obe etapy, je možné konštatovať, že sme prispeli k rehabilitácii tohto priestoru nielen po fyzickej, ale predovšetkým po jeho duchovnej stránke.
