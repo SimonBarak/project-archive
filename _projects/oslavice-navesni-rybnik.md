@@ -26,6 +26,5 @@ images:
 investor: Obec Oslavice
 visualization: ''
 collaborations: []
-published: false
 
 ---
