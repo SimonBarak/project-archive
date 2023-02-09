@@ -1,5 +1,5 @@
 ---
-weight: 99
+weight: 30
 year: 2017
 latitude: 49.340086
 longitude: 15.995022
