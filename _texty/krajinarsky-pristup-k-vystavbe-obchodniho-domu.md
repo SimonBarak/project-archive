@@ -1,5 +1,5 @@
 ---
-category: Kniha
+category: publikace
 layout: project
 title: Zahrada Park Krajina
 images:
