@@ -28,6 +28,8 @@ images:
 investor: Město Banská Bystrica
 visualization: ''
 collaborations:
+- Kateřina Sapáková
+- Tomáš Popelínský
 - ''
 
 ---
