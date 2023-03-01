@@ -98,6 +98,5 @@ collaborations: []
 media: []
 odkaz_na_navrh: ''
 awards: []
-published: false
 
 ---
