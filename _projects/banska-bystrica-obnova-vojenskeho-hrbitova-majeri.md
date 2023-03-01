@@ -30,6 +30,6 @@ visualization: ''
 collaborations:
 - Kateřina Sapáková
 - Tomáš Popelínský
-- ''
+- Linda Smítalová
 
 ---
