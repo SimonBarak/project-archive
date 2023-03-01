@@ -4,9 +4,8 @@ year: 2014
 authors: Markéta & Petr Veličkovi, Tomáš Jiránek, David Prudík
 layout: project
 title: Vodňany, Lesopark V Zátiší
-subtitle:
-description:
-  "Koncept je založen na práci se stávajícím terénem, s využitím a doplněním
+subtitle: 
+description: "Koncept je založen na práci se stávajícím terénem, s využitím a doplněním
   stávající cestní sítě. Zásadní myšlenkou je postupná přeměna lesních porostů na
   kulturní lesopark s maximálně uplatněnými formami přírodě blízkého hospodaření.
   Vložením sadů, otevíráním palouků a charakteristickým řešením dílčích prostorů se
@@ -80,21 +79,25 @@ description:
   trojzubcem alejí, který se sbíhá u kapličky na původní barokní ose Vodňany – Zátiší.
   Dřevinou alejí bude lípa velkolistá.\n"
 category: Navrh
-size: ""
-price: ""
+size: ''
+price: ''
 images:
-  - "/v1576269915/archweb/A0041b_y94x6v.jpg"
-  - "/v1576269848/archweb/A0040_hvhtnm.jpg"
-  - "/v1576269877/archweb/A0032_mjwiea.jpg"
-  - "/v1576269795/archweb/A0021_kju5t2.jpg"
-  - "/v1576269710/archweb/A0022_z8hfey.jpg"
-  - "/v1576269680/archweb/A0060_p8dkpl.jpg"
-  - "/v1576269659/archweb/Ab0050_sem9dg.jpg"
-  - "/v1576269556/archweb/Vodnany_poster_A0_tisk_t1kry1.jpg"
+- "/v1576269915/archweb/A0041b_y94x6v.jpg"
+- "/v1576269848/archweb/A0040_hvhtnm.jpg"
+- "/v1576269877/archweb/A0032_mjwiea.jpg"
+- "/v1576269795/archweb/A0021_kju5t2.jpg"
+- "/v1576269710/archweb/A0022_z8hfey.jpg"
+- "/v1576269680/archweb/A0060_p8dkpl.jpg"
+- "/v1576269659/archweb/Ab0050_sem9dg.jpg"
+- "/v1576269556/archweb/Vodnany_poster_A0_tisk_t1kry1.jpg"
 latitude: 49.161062
 longitude: 14.177252
 investor: Město Vodňany
 visualization: Jan Cyrany
-
+collaborations: []
 media: []
+odkaz_na_navrh: ''
+awards: []
+published: false
+
 ---
