@@ -1,5 +1,5 @@
 ---
-category: publikace
+category: Text
 layout: project
 title: Zahrada Park Krajina
 images:
