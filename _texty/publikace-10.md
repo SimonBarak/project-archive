@@ -4,7 +4,7 @@ category: Text
 layout: project
 title: ASB architektura, stavebnictví, byznys
 description: Architektonický časopis ASB architektura, stavebnictví, byznys zveřejnil
-  text o 5. ročníku České ceny za architekturu
+  text o Parku 4Dvory
 year: 2021
 images:
 - "/v1628172347/archweb/scan-15.jpg"
