@@ -39,6 +39,7 @@ images:
 - "/v1678882096/archweb/KAV%C3%81RNA_KIOSEK_ALT%C3%81N_ukfyea.jpg"
 investor: Město Banská Bystrica
 visualization: Adam Kořistka
-collaborations: []
+collaborations:
+- Adam Kořistka, Štěpán Průša, Milan Vaněček, Tomáš Bílek
 
 ---
