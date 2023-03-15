@@ -1,9 +1,16 @@
 ---
+- title: ''
+  project-name: _projects/obnova-areálu-zámku-valeč.md
+  thumb: "/v1576961549/archweb/DSC_0443_mtqqtd.jpg"
+  source: Zchátralý zámek Valeč proměnil vysočinský podnikatel na luxusní hotel.
+  date: 2023-03-14 23:00:00 +0000
+  link: https://www.earch.cz/architektura/clanek/zchatraly-zamek-valec-promenil-vysocinsky-podnikatel-na-luxusni-hotel-nyni-obec-prestavuje-starou-sokolovnu
+  copy: ''
 - title: Osm otázek o soužití architektů
   project-name: []
   thumb: "/v1654762690/archweb/S_PO_REALIZACI__st%C5%99%C3%ADbrn%C3%A1_linka_iilcsl_cibedd.jpg"
   source: Architect+
-  date: 2022-06-06 22:00:00 +0000
+  date: 2022-06-06T22:00:00.000+00:00
   link: https://www.estate.cz/architect/osm-otazek-o-souziti-architektu/
   copy: ''
 - title: Spojení budov a velkorysého venkovního prostoru je v dnešní době zázrak,
@@ -11,13 +18,13 @@
   project-name: []
   thumb: "/v1645637799/archweb/c6d3b5af9b5d2a52d036490d583f28ffc164f8466073d74d24625344aaec2dbd_dqi3ti.jpg"
   source: nadace rodiny Vlčkových  https://nrv.org/
-  date: 2022-02-22 23:00:00 +0000
+  date: 2022-02-22T23:00:00.000+00:00
   link: https://nrv.org/blog/post/spojeni-budov-velkoryseho-venkovniho-prostoru-je-v-dnesni-dobe-zazrak-rika-architektka-marketa-velickova?fbclid=IwAR2xpTO106hOn6UhesxsU_71R2MCMnUw_upRERE4xCZIPq9Y5UDDihvYDF0
   copy: ''
 - title: Proměnu parku vždy bereme za zázrak, líčí tvůrci budějovických 4Dvorů
   project-name: _projects/park-4Dvory.md
   source: MF Dnes Jižní Čechy
-  date: 2021-01-27 23:00:00 +0000
+  date: 2021-01-27T23:00:00.000+00:00
   link: https://www.idnes.cz/ceske-budejovice/zpravy/ceske-budejovice-park-4dvory-skatepark-maj-sumava.A210128_591614_budejovice-zpravy_mcb?
   thumb: "/v1642873612/archweb/DSCF5983_2_v9ecfl.jpg"
   copy: ''
@@ -25,7 +32,7 @@
   project-name: _projects/park-4Dvory.md
   thumb: "/v1638777630/archweb/moudr%C3%A1_m%C4%9Bsta_2_dipwsc.jpg"
   source: www.moudramesta.cz
-  date: 2021-12-04 23:00:00 +0000
+  date: 2021-12-04T23:00:00.000+00:00
   link: https://www.moudramesta.cz/park-ktery-dava-prostor-prirodnim-procesum/?fbclid=IwAR24aa11zYB92p0FzujxgmjkQiiMrGX2WC5QuRGmgDER1QUfpXxCpZt4qJw
   copy: ''
 - title: Žijeme zde v dokonalém měřítku, krajina je tu harmonická, shodují se krajinářští
@@ -33,7 +40,7 @@
   project-name: []
   thumb: "/v1635495835/archweb/%C4%8Dlanek_j8q13w.jpg"
   source: www.czechdesign.cz
-  date: 2021-10-28 22:00:00 +0000
+  date: 2021-10-28T22:00:00.000+00:00
   link: https://www.czechdesign.cz/temata-a-rubriky/zijeme-zde-v-dokonalem-meritku-krajina-je-tu-harmonicka-shoduji-se-krajinarsti-architekti-velickovi?fbclid=IwAR3Cd_fy2rMo8YXddMpzUiZKMHWxzwTpYVPsH5zSYdzEfEzRY2bBu3dA6zU
   copy: ''
 - title: Českobudějovický PARK 4DVORY navrací přírodu do města a lidem
