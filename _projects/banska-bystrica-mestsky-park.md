@@ -27,8 +27,8 @@ media: []
 size: ''
 price: ''
 images: []
-investor: ''
-visualization: ''
+investor: Město Banská Bystrica
+visualization: Adam Kořistka
 collaborations: []
 published: false
 
